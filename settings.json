@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/apache-httpcomponents-httpclient.jar",
+        "lib/httpclient-core-4.0.1.jar"
+    ]
+}
